@@ -1,7 +1,6 @@
-```markdown
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://avatars.githubusercontent.com/u/72896088?s=460&u=dfa321b325c407f8101a92c90dbc7087d2674c34&v=4>
 
-# Thiago Marinho
+# Thales Santana
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
@@ -16,4 +15,4 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
-```
+
