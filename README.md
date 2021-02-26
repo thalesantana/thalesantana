@@ -1,5 +1,5 @@
 
-<img src="https://i.ytimg.com/vi/L-TffdDY1RY/maxresdefault.jpg"/>
+<img src="https://imgur.com/a/KuQMG3x"/>
 
 ## Olá! Como vai? Thales Santana aqui :v:
 
