@@ -1,8 +1,8 @@
 # Thales Santana
-
-## Olá pessoal 👋
+<img src="https://i.ytimg.com/vi/L-TffdDY1RY/maxresdefault.jpg"/>
+## Olá! Como vai? Thales Santana aqui ✌️
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou um Fullstack Developer Jr em constante evolução! :computer:
 
  :rocket:  &nbsp; Estou trabalhando como Técnico em Eletrônica e busco trabalhar como Desenvolvedor 
  🚀   Estou estudando na Rocketseat, no Bootcamp LaunchBase
