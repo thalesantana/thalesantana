@@ -6,7 +6,7 @@
  <br/> Sou um Fullstack Developer Jr em constante evolução!:computer:
 
  :mag_right: &nbsp; Atualmente trabalhando como Analista de Desenvolvimento Jr. na Venturus
- <br/> :rocket: &nbsp; Estou cursando Engenharia de Controle e Automação se 
+ <br/> :rocket: &nbsp; Estou cursando Engenharia de Controle e Automação 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos ReactJS e NodeJs mas estou sempre aberto a coisas novas!
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Funções Javascript
  <br/> :computer: &nbsp; Minha stack: Javascript, ReactJS, Node.js  & Typescript
