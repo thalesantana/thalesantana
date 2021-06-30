@@ -17,4 +17,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesantana&show_icons=true&theme=tokyonight)
 
 ![Snake animation](https://github.com/thalesantana/thalesantana/blob/output/github-contribution-grid-snake.svg)
-
