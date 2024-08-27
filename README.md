@@ -1,6 +1,3 @@
-
-<img src="https://i.imgur.com/bhCZaQm.png"/>
-
 ## Hello! How are you? Thales Santana here :v:
 <br/> I'm a Back End Developer constantly evolving! :computer:
 
