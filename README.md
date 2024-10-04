@@ -1,5 +1,5 @@
 ## Hello! How are you? Thales Santana here :v:
-<br/> I'm a Back End Developer constantly evolving! :computer:
+<br/> I'm a Full Stack Developer constantly evolving! :computer:
 
 :mag_right:   Currently working autonomously as a web developer
 <br/> :rocket:   Graduated in Control and Automation Engineering
