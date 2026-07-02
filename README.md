@@ -1,15 +1,10 @@
 ## Hello! How are you? Thales Santana here :v:
 <br/> I'm a Full Stack Developer constantly evolving! :computer:
 
-:mag_right:   Currently working autonomously as a web developer
-<br/> :rocket:   Graduated in Control and Automation Engineering
-<br/> :purple_heart:   Looking to collaborate on projects with TypeScript, NestJS, and Node.js, but always open to new things!
-<br/> :blush:   I can help you with APIs and web solutions
-<br/> :computer:   My stack: JavaScript, Node.js, ReactJs & TypeScript
+With over 5 years of experience in web development, including blockchain-related projects, AI agent development (LLMs), static sites, and complex systems-integration and manufacturing projects (you can check more here: https://thalessantana.dev/).
 
- <br/> :email: &nbsp; You can contact me here: [![Linkedin Badge](https://img.shields.io/badge/-ThalesSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-c-santana/)](https://www.linkedin.com/in/thales-c-santana/) 
-| [![Outlook Badge](https://img.shields.io/badge/Outlook-ThalesSantana-blue)](mailto:thales.c.santana@outlook.com)
+I can help bring your idea to life — dashboards, integrations with sales platforms and with AI — and I am always open to new challenges. I can also join an ongoing project or even fix that issue left behind in your vibe-coding project!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesantana&show_icons=true&theme=tokyonight)
+I hold a degree in Control & Automation Engineering from Pitágoras and a postgraduate degree in Distributed Software Architecture from PUC Minas. Solid experience with TypeScript, Node.js, NestJS, LLMs, React, Next.js, C# and .NET.
 
 
